@@ -286,5 +286,6 @@ AutoShield AI helps organizations:
 
 ## Authors
 
+Kumar Manas | IIT Roorkee
 Developed as part of an Automotive AI & Supply Chain Intelligence Hackathon project.
 """
