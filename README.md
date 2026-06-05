@@ -203,7 +203,7 @@ Creates:
 
 ```text
 AutoShield-AI/
-
+│
 ├── data/
 │   ├── processed/
 │   │    └── automotive_digital_twin.csv
