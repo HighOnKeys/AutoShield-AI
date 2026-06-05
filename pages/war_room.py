@@ -41,7 +41,7 @@ st.set_page_config(
 def load_data():
 
     return pd.read_csv(
-        "data/final_supplier_intelligence.csv"
+        "data/final_supplier_directory.csv"
     )
 
 
