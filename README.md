@@ -204,28 +204,37 @@ Creates:
 ```text
 AutoShield-AI/
 
-├── app.py
-
 ├── data/
-
+│   ├── processed/
+│   │    └── automotive_digital_twin.csv
+│   ├── final_supplier_directory.csv
+│   └── risk_scored_supply_chain.csv
+│   
+├── docs/
+│   ├── architecture.png
+│   └── problem_definition.md
+│
 ├── notebooks/
 │   ├── 00_automotive_digital_twin.ipynb
 │   ├── 01_supplier_risk_agent.ipynb
 │   └── 02_supplier_directory.ipynb
-
+│
 ├── pages/
-│   ├── war_room.py
-│   ├── supplier_risk.py
 │   ├── alternative_sourcing.py
+│   ├── executive_copilot.py
 │   ├── scenario_simulator.py
-│   └── executive_copilot.py
-
+│   ├── supplier_risk.py
+│   └── war_room.py
+│
 ├── utils/
+│   ├── __init__.py
 │   ├── risk_engine.py
 │   ├── sourcing_engine.py
 │   └── simulation_engine.py
-
-└── README.md
+│
+├── README.md
+├── app.py
+└── requirements.txt
 ```
 
 ---
