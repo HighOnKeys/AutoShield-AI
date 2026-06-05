@@ -28,10 +28,7 @@ AutoShield AI helps decision makers move from reactive supply chain management t
 
 ## Solution Architecture
 
-```png
 img(<img width="1145" height="1280" alt="architecture" src="https://github.com/user-attachments/assets/1a3431cf-06e4-44a2-8a5c-c843a73edd7f" />)
-
-```
 
 ---
 
