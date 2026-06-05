@@ -28,23 +28,9 @@ AutoShield AI helps decision makers move from reactive supply chain management t
 
 ## Solution Architecture
 
-```text
-Raw Supply Chain Data
-          │
-          ▼
-Automotive Digital Twin
-          │
-          ▼
-XGBoost Risk Prediction Agent
-          │
-          ▼
-Supplier Intelligence Layer
-          │
- ┌────────┼────────┬────────┐
- ▼        ▼        ▼        ▼
+```png
+img(<img width="1145" height="1280" alt="architecture" src="https://github.com/user-attachments/assets/1a3431cf-06e4-44a2-8a5c-c843a73edd7f" />)
 
-War     Alternative  Scenario  Executive
-Room    Sourcing     Simulator Copilot
 ```
 
 ---
