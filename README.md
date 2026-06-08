@@ -1,5 +1,10 @@
 # 🚨 AutoShield AI: Automotive Supply Chain Risk Intelligence Platform
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Overview
 
 AutoShield AI is an AI-powered supply chain risk intelligence platform designed for the automotive industry.
