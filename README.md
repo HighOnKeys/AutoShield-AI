@@ -1,33 +1,74 @@
-# 🚨 AutoShield AI: Automotive Supply Chain Risk Intelligence Platform
+# AutoShield AI
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=streamlit)](https://autoshield-ai.streamlit.app/)
+
+*Automotive Supply Chain Risk Intelligence Platform*
+
+</div>
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Solution Architecture](#solution-architecture)
+- [Key Features](#key-features)
+  - [🚨 Supply Chain War Room](#🚨-supply-chain-war-room)
+  - [⚠️ Supplier Risk Explorer](#⚠️-supplier-risk-explorer)
+  - [🔄 Alternative Sourcing Engine](#🔄-alternative-sourcing-engine)
+  - [⚡ Scenario Simulator](#⚡-scenario-simulator)
+  - [🤖 Executive AI Copilot](#🤖-executive-ai-copilot)
+- [Machine Learning Pipeline](#machine-learning-pipeline)
+- [Data Engineering Workflow](#data-engineering-workflow)
+  - [Notebook 1](#notebook-1)
+  - [Notebook 2](#notebook-2)
+  - [Notebook 3](#notebook-3)
+- [Technology Stack](#technology-stack)
+  - [Data Science](#data-science)
+  - [Visualization](#visualization)
+  - [Supply Chain Analytics](#supply-chain-analytics)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Business Impact](#business-impact)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
 
 ## Overview
 
-AutoShield AI is an AI-powered supply chain risk intelligence platform designed for the automotive industry.
+Modern automotive supply chains operate across hundreds of suppliers, multiple geographies, and critical commodities such as semiconductors, battery materials, and mechanical assemblies.
 
-Modern automotive manufacturing depends on globally distributed suppliers for semiconductors, battery materials, mechanical assemblies, and other critical components. Supply disruptions can result in production delays, increased costs, and significant revenue loss.
+Disruptions caused by supplier failures, logistics delays, material shortages, or geopolitical events can lead to production stoppages and significant financial losses.
 
-AutoShield AI enables organizations to proactively identify supply chain risks, simulate disruptions, evaluate business impact, and recommend alternative sourcing strategies.
+AutoShield AI is an end-to-end supply chain risk intelligence platform that enables organizations to:
+
+* Predict disruption risk using Machine Learning
+* Monitor supplier and commodity risk exposure
+* Identify alternative sourcing opportunities
+* Simulate supply chain disruptions
+* Support executive decision-making through an AI Copilot
+
+The platform transforms raw supply chain data into actionable procurement intelligence.
 
 ---
 
 ## Problem Statement
 
-Automotive supply chains face increasing uncertainty due to:
+Automotive manufacturers face increasing supply chain uncertainty due to:
 
+* Semiconductor shortages
 * Supplier failures
 * Logistics disruptions
-* Material shortages
-* Geopolitical risks
 * Delivery delays
+* Commodity constraints
+* Geopolitical risks
 
-Most organizations react to disruptions after they occur.
+Most organizations identify disruptions only after they occur.
 
-AutoShield AI helps decision makers move from reactive supply chain management to proactive risk mitigation.
+The challenge is to proactively detect risks, quantify business impact, and recommend mitigation strategies before operations are affected.
 
 ---
 
@@ -43,9 +84,9 @@ AutoShield AI helps decision makers move from reactive supply chain management t
 
 Executive dashboard providing:
 
+* Supply chain KPIs
 * Supplier risk monitoring
 * Commodity risk visibility
-* Supply chain KPIs
 * Strategic insights
 
 ---
@@ -289,8 +330,17 @@ AutoShield AI helps organizations:
 
 ---
 
-## Authors
+# Author
 
-Kumar Manas | IIT Roorkee,
-Developed as part of an Automotive AI & Supply Chain Intelligence Hackathon project.
-"""
+**Kumar Manas**
+B.Tech. Production and Industrial Engineering · IIT Roorkee
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarmanas-iitroorkee/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/HighOnKeys)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krmanas0811@gmail.com)
+
+---
+
+<div align="center">
+<i>Built for ET AutoTech Hackathon 2026 · ET TechGig</i>
+</div>
